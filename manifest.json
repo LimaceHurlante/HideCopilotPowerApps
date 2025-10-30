@@ -4,6 +4,11 @@
   "version": "1.0",
   "description": "Hide Copilot button div on make.powerapps.com",
   "permissions": ["scripting", "tabs"],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+    },
   "content_scripts": [
     {
       "matches": ["https://make.powerapps.com/*"],
