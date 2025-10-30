@@ -1,9 +1,6 @@
 # HideCopilotPowerApps
 Automatically removes the Copilot button from the Power Apps Studio interface because reasons.
 
-Automatically removes the Copilot button from the Power Apps Studio
- interface — because reasons.
-
 # Description
 
 This Edge/Chrome extension removes the Copilot button (#btnShellCopilot_container) that appears in Power Apps Studio.
